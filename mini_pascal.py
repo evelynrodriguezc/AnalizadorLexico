@@ -1,12 +1,6 @@
 import ply.lex as lex
 import sys
 
-#nombres del grupo
-#Alejandro Agudelo Trejos
-#Santiago Acosta Rendón
-#Daniela Chaux Gallego
-#----------------------------------------
-
 # list of tokens
 tokens = (
     # Reserverd words

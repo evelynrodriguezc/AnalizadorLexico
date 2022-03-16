@@ -5,11 +5,6 @@ import sys
 
 VERBOSE = 1
 
-#nombres del grupo
-#Alejandro Agudelo Trejos
-#Santiago Acosta Rendón
-#Daniela Chaux Gallego
-#----------------------------------------
 def p_program(p):
 	'program : PROGRAM ID SEMICOLON declaration_list '
 	pass
